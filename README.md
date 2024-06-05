@@ -70,3 +70,6 @@ Av
 Ai
 \</OUTPUT>
 
+to run ’Cascade_Circuit_Analyser.py’ on the input file the command line should be
+python Cascade_Circuit_Analyser.py "input_file_name".net "output_file_name".csv
+
